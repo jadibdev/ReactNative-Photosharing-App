@@ -4,3 +4,4 @@ This project is a photosharing app based on the React Native documentation, main
 ### Built with
 - Javascript
 - React Native
+- Expo
